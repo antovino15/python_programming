@@ -11,4 +11,8 @@ def days_in_month(month, year):
         return 29
     else:
         return days_month[month]
-print (days_in_month(2,2020))
+
+y = int(input("Enter Year: "))
+m = int(input("Enter Month: "))
+
+print (days_in_month(m,y))
