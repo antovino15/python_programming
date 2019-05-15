@@ -16,3 +16,7 @@ y = int(input("Enter Year: "))
 m = int(input("Enter Month: "))
 
 print (days_in_month(m,y))
+
+if days_in_month ==29:
+    print( y, "is a leap year")
+    
