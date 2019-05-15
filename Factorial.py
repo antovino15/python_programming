@@ -6,4 +6,4 @@ for fact in range(1, num+1):
     # print(num)
     Factor *= fact
     # print (Factor)
-print(Factor) 
+print(Factor)
