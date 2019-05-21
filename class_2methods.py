@@ -31,4 +31,4 @@ print(emp1.pay)
 # print(emp2.email)
 # print(emp1.fullname())
 
-# Regular methjos to a class mehod by adding decorator
+# Regular methjos to a class mehod by adding decorator.
